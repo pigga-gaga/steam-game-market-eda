@@ -1,0 +1,13 @@
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+.matplotlib_cache/
+
+# Full local dataset is intentionally not tracked.
+data/steam_full.csv
+data/steam_full_副本.csv
+steam_full_副本.csv

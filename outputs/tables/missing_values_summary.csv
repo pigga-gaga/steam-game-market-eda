@@ -1,0 +1,213 @@
+field,missing_count,missing_rate
+AppID,0,0.0
+achievements,0,0.0
+analysis_category,0,0.0
+average_playtime_2weeks,0,0.0
+average_playtime_forever,0,0.0
+categories,0,0.0
+categories_Captions available,0,0.0
+categories_Co-op,0,0.0
+categories_Commentary available,0,0.0
+categories_Cross-Platform Multiplayer,0,0.0
+categories_Family Sharing,0,0.0
+categories_Full controller support,0,0.0
+categories_HDR available,0,0.0
+categories_In-App Purchases,0,0.0
+categories_Includes Source SDK,0,0.0
+categories_Includes level editor,0,0.0
+categories_LAN Co-op,0,0.0
+categories_LAN PvP,0,0.0
+categories_MMO,0,0.0
+categories_Multi-player,0,0.0
+categories_Online Co-op,0,0.0
+categories_Online PvP,0,0.0
+categories_Partial Controller Support,0,0.0
+categories_PvP,0,0.0
+categories_Remote Play Together,0,0.0
+categories_Remote Play on Phone,0,0.0
+categories_Remote Play on TV,0,0.0
+categories_Remote Play on Tablet,0,0.0
+categories_Shared/Split Screen,0,0.0
+categories_Shared/Split Screen Co-op,0,0.0
+categories_Shared/Split Screen PvP,0,0.0
+categories_Single-player,0,0.0
+categories_Stats,0,0.0
+categories_Steam Achievements,0,0.0
+categories_Steam Cloud,0,0.0
+categories_Steam Leaderboards,0,0.0
+categories_Steam Timeline,0,0.0
+categories_Steam Trading Cards,0,0.0
+categories_Steam Turn Notifications,0,0.0
+categories_Steam Workshop,0,0.0
+categories_SteamVR Collectibles,0,0.0
+categories_Tracked Controller Support,0,0.0
+categories_Tracked Motion Controller Support,0,0.0
+categories_VR Only,0,0.0
+categories_VR Support,0,0.0
+categories_VR Supported,0,0.0
+categories_Valve Anti-Cheat enabled,0,0.0
+developers,0,0.0
+dlc_count,0,0.0
+estimated_owners,0,0.0
+estimated_owners_midpoint,0,0.0
+genres,0,0.0
+genres_360 Video,0,0.0
+genres_Accounting,0,0.0
+genres_Action,0,0.0
+genres_Adventure,0,0.0
+genres_Animation & Modeling,0,0.0
+genres_Audio Production,0,0.0
+genres_Casual,0,0.0
+genres_Design & Illustration,0,0.0
+genres_Documentary,0,0.0
+genres_Early Access,0,0.0
+genres_Education,0,0.0
+genres_Episodic,0,0.0
+genres_Free To Play,0,0.0
+genres_Free to Play,0,0.0
+genres_Game Development,0,0.0
+genres_Indie,0,0.0
+genres_Massively Multiplayer,0,0.0
+genres_Movie,0,0.0
+genres_Photo Editing,0,0.0
+genres_RPG,0,0.0
+genres_Racing,0,0.0
+genres_Short,0,0.0
+genres_Simulation,0,0.0
+genres_Software Training,0,0.0
+genres_Sports,0,0.0
+genres_Strategy,0,0.0
+genres_Tutorial,0,0.0
+genres_Utilities,0,0.0
+genres_Video Production,0,0.0
+genres_Violent,0,0.0
+genres_Web Publishing,0,0.0
+is_indie,0,0.0
+languages_Afrikaans,0,0.0
+languages_Albanian,0,0.0
+languages_Amharic,0,0.0
+languages_Arabic,0,0.0
+languages_Armenian,0,0.0
+languages_Assamese,0,0.0
+languages_Azerbaijani,0,0.0
+languages_Bangla,0,0.0
+languages_Basque,0,0.0
+languages_Belarusian,0,0.0
+languages_Bosnian,0,0.0
+languages_Bulgarian,0,0.0
+languages_Catalan,0,0.0
+languages_Cherokee,0,0.0
+languages_Croatian,0,0.0
+languages_Czech,0,0.0
+languages_Danish,0,0.0
+languages_Dari,0,0.0
+languages_Dutch,0,0.0
+languages_English,0,0.0
+languages_Estonian,0,0.0
+languages_Filipino,0,0.0
+languages_Finnish,0,0.0
+languages_French,0,0.0
+languages_Galician,0,0.0
+languages_Georgian,0,0.0
+languages_German,0,0.0
+languages_Greek,0,0.0
+languages_Gujarati,0,0.0
+languages_Hausa,0,0.0
+languages_Hebrew,0,0.0
+languages_Hindi,0,0.0
+languages_Hungarian,0,0.0
+languages_Icelandic,0,0.0
+languages_Igbo,0,0.0
+languages_Indonesian,0,0.0
+languages_Irish,0,0.0
+languages_Italian,0,0.0
+languages_Japanese,0,0.0
+languages_K'iche',0,0.0
+languages_Kannada,0,0.0
+languages_Kazakh,0,0.0
+languages_Khmer,0,0.0
+languages_Kinyarwanda,0,0.0
+languages_Konkani,0,0.0
+languages_Korean,0,0.0
+languages_Kyrgyz,0,0.0
+languages_Latvian,0,0.0
+languages_Lithuanian,0,0.0
+languages_Luxembourgish,0,0.0
+languages_Macedonian,0,0.0
+languages_Malay,0,0.0
+languages_Malayalam,0,0.0
+languages_Maltese,0,0.0
+languages_Maori,0,0.0
+languages_Marathi,0,0.0
+languages_Mongolian,0,0.0
+languages_Nepali,0,0.0
+languages_Norwegian,0,0.0
+languages_Odia,0,0.0
+languages_Persian,0,0.0
+languages_Polish,0,0.0
+languages_Portuguese,0,0.0
+languages_Portuguese - Brazil,0,0.0
+languages_Portuguese - Portugal,0,0.0
+languages_Punjabi (Gurmukhi),0,0.0
+languages_Punjabi (Shahmukhi),0,0.0
+languages_Quechua,0,0.0
+languages_Romanian,0,0.0
+languages_Russian,0,0.0
+languages_Scots,0,0.0
+languages_Serbian,0,0.0
+languages_Simplified Chinese,0,0.0
+languages_Sindhi,0,0.0
+languages_Sinhala,0,0.0
+languages_Slovak,0,0.0
+languages_Slovenian,0,0.0
+languages_Sorani,0,0.0
+languages_Sotho,0,0.0
+languages_Spanish - Latin America,0,0.0
+languages_Spanish - Spain,0,0.0
+languages_Swahili,0,0.0
+languages_Swedish,0,0.0
+languages_Tajik,0,0.0
+languages_Tamil,0,0.0
+languages_Tatar,0,0.0
+languages_Telugu,0,0.0
+languages_Thai,0,0.0
+languages_Tigrinya,0,0.0
+languages_Traditional Chinese,0,0.0
+languages_Tswana,0,0.0
+languages_Turkish,0,0.0
+languages_Turkmen,0,0.0
+languages_Ukrainian,0,0.0
+languages_Urdu,0,0.0
+languages_Uyghur,0,0.0
+languages_Uzbek,0,0.0
+languages_Valencian,0,0.0
+languages_Vietnamese,0,0.0
+languages_Welsh,0,0.0
+languages_Wolof,0,0.0
+languages_Xhosa,0,0.0
+languages_Yoruba,0,0.0
+languages_Zulu,0,0.0
+linux,0,0.0
+mac,0,0.0
+median_estimated_owners,0,0.0
+median_playtime_2weeks,0,0.0
+median_playtime_forever,0,0.0
+metacritic_score,0,0.0
+name,0,0.0
+negative,0,0.0
+negative_rate,0,0.0
+peak_ccu,0,0.0
+positive,0,0.0
+positive_rate,0,0.0
+positive_review_rate,0,0.0
+price,0,0.0
+price_range,0,0.0
+primary_genre,0,0.0
+publishers,0,0.0
+recommendations,0,0.0
+release_date,0,0.0
+release_year,0,0.0
+required_age,0,0.0
+supported_languages,0,0.0
+total_reviews,0,0.0
+windows,0,0.0
